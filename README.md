@@ -2,6 +2,9 @@
 SPDX-License-Identifier: GPL-2.0-or-later
 Copyright (c) 2018 Greg Kroah-Hartman <gregkh@linuxfoundation.org>
 -->
+
+# This repo adds support for MIDI 2.0 terminal descriptors
+
 # usbutils
 
 This is a collection of USB tools for use on Linux and BSD systems to
